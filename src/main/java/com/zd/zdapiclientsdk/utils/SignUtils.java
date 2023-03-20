@@ -1,4 +1,4 @@
-package com.zd.zdinterface.utils;
+package com.zd.zdapiclientsdk.utils;
 
 import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;

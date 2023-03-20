@@ -1,4 +1,4 @@
-package com.zd.zdinterface.model;
+package com.zd.zdapiclientsdk.model;
 
 import lombok.Data;
 
